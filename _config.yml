@@ -14,7 +14,7 @@ author: Allengdrong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "소개"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -59,7 +59,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: 
+rss-description: 알렝드롱의 공부하는 
 
 # --- General options --- #
 
