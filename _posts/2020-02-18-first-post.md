@@ -1,19 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+title: 블로그 개설
+date: 2020-02-18 12:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+jekyll 테마를 fork하여 블로그를 개설하였습니다.
 
-Jekyll also offers powerful support for code snippets:
+첫번째 포스팅은 테스트를 위해 작성해 보았고 다음 포스팅부터 좋은 내용으로 찾아뵙겠습니다 :)
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
