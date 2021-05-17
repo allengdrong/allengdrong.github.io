@@ -8,4 +8,5 @@
 ![SQLSyntaxErrorException](https://user-images.githubusercontent.com/74330505/118515408-537f3d80-b770-11eb-932b-c8d0208f8a40.png)
 
 오라클 에러코드는 정말 다양하게 있었고 그 중 제가 가장 많이 발생시킨 에러코드는 ora-00900 이었습니다.
-'sql 문이 부적합 합니다.'
+
+해결 : 오타와 세미콜론 등 오타 
